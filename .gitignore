@@ -1,0 +1,16 @@
+# Compiled executable
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE settings
+.vscode/
+.idea/
+
+# Debug files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
